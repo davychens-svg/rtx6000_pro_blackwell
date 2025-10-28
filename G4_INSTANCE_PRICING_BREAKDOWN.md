@@ -243,6 +243,14 @@ The pricing above covers **compute resources only** (CPU, RAM, GPU). Additional 
 - 3 commitment types (On-Demand, 1-Year, 3-Year)
 - 3 components (CPU, RAM, GPU RTX 6000 96GB)
 
+### **References**
+
+Official Google Cloud Documentation:
+- **VM Instance Pricing:** https://cloud.google.com/compute/vm-instance-pricing?hl=en
+- **SKU Browser (RTX):** https://cloud.google.com/skus?hl=en&filter=RTX&currency=USD
+- **SKU Browser (G4):** https://cloud.google.com/skus?hl=en&filter=G4&currency=USD
+- **GPU Documentation:** https://cloud.google.com/compute/docs/gpus
+
 ---
 
 ## Changelog
