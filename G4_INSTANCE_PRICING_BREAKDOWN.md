@@ -200,6 +200,37 @@ Google Cloud G4 instances feature **NVIDIA RTX PRO 6000 Ada GPUs** with 96GB GDD
 
 ---
 
+## Important Notes
+
+### **Storage Costs Not Included**
+
+The pricing above covers **compute resources only** (CPU, RAM, GPU). Additional costs apply for:
+
+**Storage:**
+- **Titanium SSD (local):** High-performance local storage attached to instances
+  - g4-standard-48: Up to 1,500 GiB supported
+  - g4-standard-96: Up to 3,000 GiB supported
+  - g4-standard-192: Up to 6,000 GiB supported
+  - g4-standard-384: Up to 12,000 GiB supported
+  - Pricing varies by region (not included in above costs)
+
+- **Persistent Disks:** Network-attached storage
+- **Cloud Storage:** Object storage for data
+
+**Network:**
+- Egress (outbound data transfer)
+- Inter-region data transfer
+- Load balancing
+
+**Other Services:**
+- Monitoring and logging
+- Backup and snapshots
+- Additional networking services
+
+**Note:** Storage, networking, and additional services are billed separately. Consult Google Cloud Pricing Calculator for complete cost estimates.
+
+---
+
 ## Data Sources
 
 - **Source:** Google Cloud SKU Pricing Database
