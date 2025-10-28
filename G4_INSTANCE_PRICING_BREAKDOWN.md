@@ -205,41 +205,6 @@ Google Cloud G4 instances feature **NVIDIA RTX PRO 6000 Ada GPUs** with 96GB GDD
 
 ---
 
-## Recommendations
-
-### 🏆 Best Overall: Iowa or N. Virginia
-- **Lowest pricing** across all machine types
-- **US-based** with excellent connectivity
-- **Identical pricing** - choose based on geography
-
-### 🇪🇺 Best for Europe: Netherlands
-- **GDPR-compliant** data residency
-- **Only 10% premium** over US regions
-- **Central EU location**
-
-### 🌏 Best for Asia: Singapore
-- **Better than Delhi** (20% premium vs 30%)
-- **Strategic APAC hub**
-- **Low latency** to Southeast Asia
-
-### ⚠️ Avoid: Delhi for Cost Optimization
-- **30% more expensive** than US regions
-- Only use if **Indian data residency required**
-
----
-
-## Quick Decision Guide
-
-**Budget < $2,000/month?** → g4-standard-48
-**Need 2-3 GPUs?** → g4-standard-96
-**Need 4-7 GPUs?** → g4-standard-192
-**Need 8+ GPUs?** → g4-standard-384
-
-**Location:** Iowa (cheapest) or nearest region for latency
-**Commitment:** 3-Year (save 56%) for stable workloads
-
----
-
 ## Data Sources
 
 - **Source:** Google Cloud SKU Pricing Database
