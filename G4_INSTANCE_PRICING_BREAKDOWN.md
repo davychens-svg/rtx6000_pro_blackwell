@@ -231,19 +231,7 @@ The pricing above covers **compute resources only** (CPU, RAM, GPU). Additional 
 
 ---
 
-## Data Sources
-
-- **Source:** Google Cloud SKU Pricing Database
-- **Accuracy:** 100% verified from official SKUs
-- **Date:** October 29, 2025
-- **Method:** Direct SKU data, no estimations
-
-**All pricing confirmed for:**
-- 5 regions (Iowa, N. Virginia, Delhi, Netherlands, Singapore)
-- 3 commitment types (On-Demand, 1-Year, 3-Year)
-- 3 components (CPU, RAM, GPU RTX 6000 96GB)
-
-### **References**
+## References
 
 Official Google Cloud Documentation:
 - **VM Instance Pricing:** https://cloud.google.com/compute/vm-instance-pricing?hl=en
