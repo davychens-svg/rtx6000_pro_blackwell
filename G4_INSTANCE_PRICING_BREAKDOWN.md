@@ -185,17 +185,12 @@ Google Cloud G4 instances feature **NVIDIA RTX PRO 6000 Ada GPUs** with 96GB GDD
 3. **Singapore**: +19.7% premium
 4. **Delhi**: +29.5% premium (most expensive)
 
-### 3. Best Value Combinations
-**For Cost:** Iowa/N. Virginia + 3-Year Commitment
-**For EU Compliance:** Netherlands + 3-Year Commitment
-**For APAC:** Singapore + 3-Year Commitment (cheaper than Delhi)
-
-### 4. Break-Even Analysis (g4-standard-48, Iowa)
+### 3. Break-Even Analysis (g4-standard-48, Iowa)
 - **Monthly Savings (3Y):** $1,852/month vs on-demand
 - **Annual Savings:** $22,225/year
 - **3-Year Total Savings:** $66,672
 
-### 5. When to Use Each Commitment
+### 4. When to Use Each Commitment
 
 | Commitment | Use When | Example |
 |-----------|----------|---------|
